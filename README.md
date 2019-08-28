@@ -4,5 +4,5 @@
 </br> Notebook Code for analysis</br>
 </br>Flyer Dataset</br>
 </br>Non Flyer Dataset</br>
-</br>Theoritical Peptides Dataset</br>
+</br>Theoretical Peptides Dataset</br>
 </br>Filtered HF60 Dataset</br>
